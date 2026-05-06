@@ -1,2 +1,2 @@
-# www.speedhex.co.in
+www.speedhex.co.in
 Internet Service Provider
